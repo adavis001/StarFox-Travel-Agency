@@ -1,2 +1,78 @@
 body {
-  background-color: #333333; }
+  background-color: #8ccfce;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0; }
+
+h1 {
+  display: flex;
+  color: white;
+  background-color: #333333;
+  height: 50px;
+  background-image: url("/assets/menu_icon.svg");
+  background-position: 100%;
+  background-repeat: no-repeat;
+  background-size: 50px; }
+
+#smallUfo {
+  filter: invert(100%);
+  display: flex; }
+
+#one {
+  background-image: url("/assets/ship.svg");
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  margin: auto; }
+
+#ipsum1 {
+  width: 80%;
+  margin: auto;
+  font-size: 20px; }
+
+.clickable {
+  background-color: #333333;
+  color: #8ccfce;
+  border: transparent;
+  font-size: 24px; }
+
+#three {
+  background-color: #333333;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  width: 80%;
+  margin: auto; }
+
+#four {
+  background-color: #ffffff;
+  color: #ffffff;
+  height: 800px;
+  margin: 0; }
+
+#toMoon {
+  background-color: #333333;
+  color: #8ccfce;
+  display: flex;
+  width: 80%;
+  height: 50px;
+  justify-content: center;
+  font-size: 24px;
+  margin: auto;
+  padding: 10px; }
+
+.sinatra {
+  background-color: #333333;
+  display: flex;
+  width: 80%;
+  height: 50px;
+  justify-content: center;
+  font-size: 18px;
+  margin: auto;
+  padding: 10px; }
+
+#moonPrice {
+  font-size: 36px; }
+
+#moonAd {
+  font-size: 45px; }
